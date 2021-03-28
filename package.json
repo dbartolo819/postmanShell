@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dbartolo819/postmanShell#readme",
   "dependencies": {
-    "newman": "^5.2.2"
+    "newman": "^5.2.2",
+    "newman-reporter-html": "^1.0.5"
   }
 }
