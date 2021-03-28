@@ -7,7 +7,7 @@ function postmanRun(options) {
         reporters: 'html',
         reporter: {
             html: {
-                export: options.htmlReportDir //'./htmlResults.html'
+                export: options.htmlReportDir
             }
         }
     }, function (err) {
