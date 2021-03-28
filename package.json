@@ -1,0 +1,22 @@
+{
+  "name": "postmanshell",
+  "version": "1.0.0",
+  "description": "postmanshell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbartolo819/postmanShell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbartolo819/postmanShell/issues"
+  },
+  "homepage": "https://github.com/dbartolo819/postmanShell#readme",
+  "dependencies": {
+    "newman": "^5.2.2"
+  }
+}
